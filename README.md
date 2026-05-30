@@ -252,16 +252,22 @@ philosophy  : "Build scalable systems. Automate repetitive work.
 ## 📊 GitHub Statistics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoussoufHard&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&icon_color=38BDF8" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussoufHard&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoussoufHard&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&icon_color=38BDF8&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussoufHard&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 </div>
 
 <div align="center">
-<img width="60%" src="https://streak-stats.demolab.com?user=YoussoufHard&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=38BDF8&ring=38BDF8&fire=FB923C" />
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=YoussoufHard&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=FB923C&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=FFFFFF" />
 </div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussoufHard&theme=tokyo-night&hide_border=true&area=true&color=38BDF8&line=38BDF8&point=FB923C" width="100%" />
+</div>
+
+<div align="center">
+
+> 📌 **462 contributions** depuis Oct 2023 · Longest streak : **6 jours** (Jan 2025) · Actif sur des repos privés Soluxury
+
 </div>
 
 ---
@@ -310,3 +316,4 @@ philosophy  : "Build scalable systems. Automate repetitive work.
 
 **⚡ Build scalable systems. Automate repetitive work. Learn continuously. Deliver impact.**
 </div>
+
